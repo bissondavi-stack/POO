@@ -91,7 +91,7 @@ public class LoserClub
 
     public void exibirinfo()
     {
-        Console.Write($"Clube dos oatrio, membros:");
+        Console.Write($"Clube dos otario, membros:");
         Console.WriteLine($"Nome: {nome}");
         Console.WriteLine($"Idade: {idade}");
         Console.WriteLine($"Vivo: {vivo}");
